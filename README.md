@@ -104,7 +104,7 @@ EDA invoved the exploring of Data to answer some questions about the Data which 
   ![Screenshot (188)](https://github.com/user-attachments/assets/f1861776-dcde-44af-8a60-6669bf542925)
 
 - **Total Number of Staffs in Nassarawa**:
-  ` COUNTIF(C8:C27,C16)` - To calculate the Total numberof staffs in  Nassarawa state
+  ` COUNTIF(C8:C27,C16)` - To calculate the Total number of staffs in  Nassarawa state
   ![Screenshot (187)7](https://github.com/user-attachments/assets/d0b4922a-ef00-4e35-bbab-8ed4b36be063)
 
 - **Lowest Salary in Taraba**:
