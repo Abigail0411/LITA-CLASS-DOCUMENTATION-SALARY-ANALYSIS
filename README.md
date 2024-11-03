@@ -33,7 +33,7 @@ The dataset was sourced from the ID and Co.'s HR Information System. The dataset
 - Microsoft Excel [Download Here](https://wwww.microsoft.com)
   1. For Data Cleaning
   2. For Analysis
-
+  3. For Visualization- Column chart was used to visually represent key insights
 ### Data Cleaning and Preparations
 ---
 In the initial phase of the Data Cleaning and preparations,we perform the following action;
