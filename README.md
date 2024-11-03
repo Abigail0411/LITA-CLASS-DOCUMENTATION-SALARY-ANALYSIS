@@ -36,7 +36,7 @@ The dataset was sourced from the ID and Co.'s HR Information System. The dataset
   3. For Visualization- Column chart was used to visually represent key insights
 ### Data Cleaning and Preparations
 ---
-In the initial phase of the Data Cleaning and preparations,we perform the following action;
+In the initial phase of the Data Cleaning and preparations,the following action were performed;
 1. Data loading and Inspection
 2. Handling missing variables
 3. Data Cleaning and formating
