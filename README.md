@@ -1,4 +1,4 @@
-### LITA CLASS DATA ANALYSIS PROJECT: SALARY ANALYSIS
+# LITA CLASS DATA ANALYSIS PROJECT: SALARY ANALYSIS
 ---
 
 ## Context
@@ -110,6 +110,8 @@ EDA invoved the exploring of Data to answer some questions about the Data which 
 - **Lowest Salary in Taraba**:
   ` MINIFS(D8:D27,C8:C27,C23)` - To calculate the Lowest salary collected by the staffs in Taraba state
   ![Screenshot (187)9](https://github.com/user-attachments/assets/0e874a9b-ae0e-4677-b590-689d11e02657)
+
+
 
  
 
