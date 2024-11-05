@@ -17,31 +17,31 @@
 
 [Data Visualization](#data-visualization)
 
-### Project Overview
+## Project Overview
 ---
 The project involves calculating the total salary, average salary, highest and lowest salary of the data set to provide insights into overall compensation levels.
 
-### Data Sources
+## Data Sources
 ---
 The dataset was sourced from the ID and Co.'s HR Information System. The dataset includes the followwing information about the employees;
 - Staff Names
 - States
 - Staff's salaries
 
-### Tools Used
+## Tools Used
 ---
 - Microsoft Excel [Download Here](https://wwww.microsoft.com)
   1. For Data Cleaning
   2. For Analysis
   3. For Visualization- Column chart was used to visually represent key insights
-### Data Cleaning and Preparations
+## Data Cleaning and Preparations
 ---
 In the initial phase of the Data Cleaning and preparations,the following action were performed;
 1. Data loading and Inspection
 2. Handling missing variables
 3. Data Cleaning and formating
 
-### Exploratory Data Analysis
+## Exploratory Data Analysis
 ---
 EDA invoved the exploring of Data to answer some questions about the Data which are as follows;
 -Total Salrary of staffs in a Bayelsa State
@@ -59,10 +59,10 @@ EDA invoved the exploring of Data to answer some questions about the Data which 
 
 
 
-### Data Analysis
+## Data Analysis
 ---
-## Formulars Used
-## Excel Functions
+### Formulars Used
+### Excel Functions
 - **Grand Total Salary**:
   `SUM(D8:D27)` - Sums all salaries in the cells from D8 through D27
   ![Screenshot (182)](https://github.com/user-attachments/assets/e234ff91-6f6b-4286-b595-068d6d35dd38)
@@ -115,7 +115,7 @@ EDA invoved the exploring of Data to answer some questions about the Data which 
 
  
 
-### Data Visualization
+## Data Visualization
 ---
 ## Salary by States Column Chart 
 ![Screenshot (181)](https://github.com/user-attachments/assets/e0d60f72-3964-46fc-b804-ab9f98f0049a)
